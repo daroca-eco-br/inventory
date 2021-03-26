@@ -46,8 +46,7 @@ $ mix test
 ## Built With
 
 * [Elixir](https://elixir-lang.org/install.html): Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
-* [Lapin](https://github.com/lucacorti/lapin) - https://github.com/lucacorti/lapin
-
+* [Phoenix Framework](https://www.phoenixframework.org/): Phoenix is a web development framework written in Elixir which implements the server-side Model View Controller (MVC) pattern.
 
 ## Authors
 
